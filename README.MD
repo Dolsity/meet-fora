@@ -37,8 +37,6 @@
     <a href="https://github.com/dolsity/meet-fora/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/dolsity/mmet-fora/issues/new/choose">Request Feature</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
   </p>
 
   <h2 align="center">
