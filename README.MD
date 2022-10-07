@@ -38,16 +38,6 @@
     ·
     <a href="https://github.com/dolsity/mmet-fora/issues/new/choose">Request Feature</a>
   </p>
-
-  <h2 align="center">
-    Popular Commands
-  </h2>
-  
-  <p align="center">
-    <img width="300" height ="180" alt="Screen Shot 2022-08-01 at 7 37 41 PM" src="https://user-images.githubusercontent.com/84829249/182279743-4c1df1a7-3741-4cc1-bf4d-edd26d40eb77.png" />
-    <img width="300" height ="180" alt="Screen Shot 2022-08-01 at 7 40 06 PM" src="https://user-images.githubusercontent.com/84829249/182280038-2a1ebb6d-2686-4d3a-b1ca-7c7f795d2363.png" />
-    <img width="300" height ="180" alt="Screen Shot 2022-08-01 at 7 43 47 PM" src="https://user-images.githubusercontent.com/84829249/182280486-e8400568-abdc-4c17-8ad1-199237b01262.png" />
-  </p>
   
   <h2 align="center">
     Basics
